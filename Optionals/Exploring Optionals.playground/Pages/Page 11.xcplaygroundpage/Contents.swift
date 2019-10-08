@@ -12,8 +12,10 @@
  */
 // Type the code below this line...
 // I think it will be a nil
-var x: Int?
-var y: Int?
-x * y
-
+/*
+ var x: Int?
+ var y: Int?
+ x * y
+ */
+// Binary operator cannot be applied to two INT? operands
 //: [Next](@next)

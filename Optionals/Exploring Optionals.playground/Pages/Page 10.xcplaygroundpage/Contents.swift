@@ -15,5 +15,6 @@
 var x: Int = 0
 var y: Int
 
-x*y
+x * y
+// used before initialized
 //: [Next](@next)

@@ -11,7 +11,16 @@
  
  */
 // Type the code below this line...
+// It will work since both of them are int, if let statement unwrap them
 
+var x: Int? = 3
+var y: Int? = 4
+
+if let notNilX = x, let notNilY = y {
+    notNilX * notNilY
+}  else {
+    print("Cannot compute, x, y, or both are nil.")
+}
 
 /*:
  
