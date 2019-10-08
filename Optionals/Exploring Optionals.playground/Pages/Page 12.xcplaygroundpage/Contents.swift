@@ -11,6 +11,9 @@
  
  */
 // Type the code below this line...
+var x: Int?
+var y: Int?
 
-
+x! * y!
+// can't be unwrapped.
 //: [Next](@next)

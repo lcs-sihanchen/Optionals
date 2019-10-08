@@ -11,6 +11,9 @@
  
  */
 // Type the code below this line...
-
+// I think it will be a nil
+var x: Int?
+var y: Int?
+x * y
 
 //: [Next](@next)
